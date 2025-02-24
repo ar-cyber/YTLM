@@ -18,6 +18,6 @@ YouTube Live Music  (YTLM) is a bot i coded (with the help of AI) that allows vi
 
 8- Replace "PATH_TO_VLC_HERE" with the path to your VLC ***USE DOUBLE BACKSLASHES INSTEAD OF SINGLE, "C:\Program Files\VideoLAN\VLC\" MUST BECOME "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"***
 
-9- Run main.py
+9- ***TURN OFF LOOP IN VLC OR THIS WILL NOT WORK!!!***
 
-10- Done!
+10- Run main.py
