@@ -3,5 +3,7 @@ YouTube Live Music  (YTLM) is a bot i coded (with the help of AI) that allows vi
 
 # SETUP
 1- Install MPV (https://mpv.io)
+
 2- Run: ```pip install pytchat mpv python-mpv youtube-dl``` in CMD
+
 3- Download main.py
