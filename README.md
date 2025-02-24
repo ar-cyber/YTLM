@@ -1,6 +1,10 @@
 # YTLM
 YouTube Live Music  (YTLM) is a stupid little bot I coded (with a little help from AI) that allows viewers of a livestream to use commands to queue music
 
+## COMMANDS
+
+The command to queue a song is "!queue <Video_ID>" where <Video_ID> is the unique string of characters used to identify a video (everything after the "v=")
+
 ## SETUP
 1- Clone/Download and extract the Repo to any folder on your computer
 
@@ -28,8 +32,6 @@ YouTube Live Music  (YTLM) is a stupid little bot I coded (with a little help fr
 
 ## NOTES
 This program can be run on ANY WINDOWS PC, no key or api is required, if used, please credit me in the description or somewhere in the video
-
-The command to queue a song is "!queue <Video_ID>" where <Video_ID> is the unique string of characters used to identify a video (everything after the "v=")
 
 ## STAR HISTORY
 [![Star History Chart](https://api.star-history.com/svg?repos=NIDNHU/YTLM&type=Date)](https://star-history.com/#NIDNHU/YTLM&Date)
