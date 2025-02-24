@@ -6,12 +6,18 @@ YouTube Live Music  (YTLM) is a bot i coded (with the help of AI) that allows vi
 
 2- Run the file "PipInstall.bat"
 
-3- Open the file "config.json" in your text editor of choice, I reccomend [VsCode](https://code.visualstudio.com/download) or [Notepad++](https://notepad-plus-plus.org/downloads/v8.6.7/)
+3- install [VLC](https://www.videolan.org/vlc/) x86
 
-4- Change "YOUR_LIVESTREAM_ID" to the ID of your livestream (Ie. the characters at the end of the URL, after the "/live/")
+4- Locate the path of VLC media player, generally found in "C:\Program Files\VideoLAN\VLC\" or "C:\Program Files (x86)\VideoLAN\VLC\"
 
-5- Change the value for "RATE_LIMIT_SECONDS" this defaults to 600 and is how long users have to wait before they can request another song (in seconds)
+5- Open the file "config.json" in your text editor of choice, I reccomend [VsCode](https://code.visualstudio.com/download) or [Notepad++](https://notepad-plus-plus.org/downloads/v8.6.7/)
 
-6- Run main.py
+6- Change "YOUR_LIVESTREAM_ID" to the ID of your livestream (Ie. the characters at the end of the URL, after the "/live/")
 
-7- Done!
+7- Change the value for "RATE_LIMIT_SECONDS" this defaults to 600 and is how long users have to wait before they can request another song (in seconds)
+
+8- Replace "PATH_TO_VLC_HERE" with the path to your VLC ***USE DOUBLE BACKSLASHES INSTEAD OF SINGLE, "C:\Program Files\VideoLAN\VLC\" MUST BECOME "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"***
+
+9- Run main.py
+
+10- Done!
