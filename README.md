@@ -1,4 +1,4 @@
-## YTLM
+# YTLM
 YouTube Live Music  (YTLM) is a bot i coded (with a little help from AI) that allows viewers of a livestream to use commands to queue music
 
 ## SETUP
