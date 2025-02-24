@@ -10,7 +10,7 @@ The command to queue a song is "!queue <Video_ID>" where <Video_ID> is the uniqu
 
 2- Install [Python](https://www.python.org/downloads/), during install, make sure the boxes at the bottom labelled "add Python.exe to PATH" and "Use admin priveliges when installing" are ticked
 
-2.5- Run the file "PipInstall.bat" to install dependencies
+2.5- install dependencies (found in Src/requirements.txt) or run the file "Src/PipInstallBat.bat" on windows to install dependencies
 
 3- Install [VLC](https://www.videolan.org/vlc/) x86
 
@@ -33,7 +33,8 @@ The command to queue a song is "!queue <Video_ID>" where <Video_ID> is the uniqu
 10- Run main.py, VLC will open, please turn off loop otherwise if you run out of songs you will have to listen to the whole playlist again before you get to the new ones
 
 ## NOTES
-This program can be run on ANY WINDOWS PC, no key or api is required, if used, please credit me in the description or somewhere in the video
+-This program can be run on any Windows PC with no API key or cookie required, if used, please credit me in the description or somewhere in the video
+-This program Has not been tested on any other OS and it is unknown if it works
 
 ## STAR HISTORY
 [![Star History Chart](https://api.star-history.com/svg?repos=NIDNHU/YTLM&type=Date)](https://star-history.com/#NIDNHU/YTLM&Date)
