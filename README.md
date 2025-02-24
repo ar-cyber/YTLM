@@ -1,7 +1,7 @@
-# YTLM
+## YTLM
 YouTube Live Music  (YTLM) is a bot i coded (with a little help from AI) that allows viewers of a livestream to use commands to queue music
 
-# SETUP
+## SETUP
 1- Clone/Download and extract the Repo to any folder on your computer
 
 2- Run the file "PipInstall.bat"
@@ -26,7 +26,8 @@ YouTube Live Music  (YTLM) is a bot i coded (with a little help from AI) that al
 
 10- Run main.py, VLC will open, please turn off loop otherwise if you run out of songs you will have to listen to the whole playlist again before you get to the new ones
 
-# NOTES
+## NOTES
 This program can be run on ANY WINDOWS PC, no key or api is required, if used, please credit me in the description or somewhere in the video
 
-
+## STAR HISTORY
+[![Star History Chart](https://api.star-history.com/svg?repos=NIDNHU/YTLM&type=Date)](https://star-history.com/#NIDNHU/YTLM&Date)
