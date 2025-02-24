@@ -8,7 +8,9 @@ The command to queue a song is "!queue <Video_ID>" where <Video_ID> is the uniqu
 ## SETUP
 1- Clone/Download and extract the Repo to any folder on your computer
 
-2- Run the file "PipInstall.bat"
+2- Install [Python](https://www.python.org/downloads/), during install, make sure the boxes at the bottom labelled "add Python.exe to PATH" and "Use admin priveliges when installing" are ticked
+
+2.5- Run the file "PipInstall.bat" to install dependencies
 
 3- Install [VLC](https://www.videolan.org/vlc/) x86
 
