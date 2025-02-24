@@ -6,7 +6,11 @@ YouTube Live Music  (YTLM) is a bot i coded (with the help of AI) that allows vi
 
 2- Run the file "PipInstall.bat"
 
-3- install [VLC](https://www.videolan.org/vlc/) x86
+3- Install [VLC](https://www.videolan.org/vlc/) x86
+
+4- Download the correct [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip) version, extract it and navigate to the bin folder
+
+5- Move everything from the bin folder to src/ffmpeg and then delete the placeholder file "DELETEME"
 
 4- Locate the path of VLC media player, generally found in "C:\Program Files\VideoLAN\VLC\" or "C:\Program Files (x86)\VideoLAN\VLC\"
 
