@@ -22,6 +22,11 @@ YouTube Live Music  (YTLM) is a bot i coded (with the help of AI) that allows vi
 
 8- Replace "PATH_TO_VLC_HERE" with the path to your VLC ***USE DOUBLE BACKSLASHES INSTEAD OF SINGLE, "C:\Program Files\VideoLAN\VLC\" MUST BECOME "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"***
 
-9- ***TURN OFF LOOP IN VLC OR THIS WILL NOT WORK!!!***
+9- ***TURN OFF LOOP IN VLC!!!***
 
-10- Run main.py
+10- Run main.py, VLC will open, please turn off loop otherwise if you run out of songs you will have to listen to the whole playlist again before you get to the new ones
+
+# NOTES
+This program can be run on ANY WINDOWS PC, no key or api is required, if used, please credit me in the description or somewhere in the video
+
+
