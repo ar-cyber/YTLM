@@ -1,3 +1,3 @@
 @echo off
 python.exe -m pip install --upgrade pip
-pip install pytchat
+pip install pytchat yt-dlp
