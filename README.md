@@ -37,7 +37,7 @@ The command to queue a song is "!queue \<VIDEO\_ID>" where \<VIDEO\_ID> is the u
 12. Run main.py, VLC will open.
 
 > [!CAUTION]
->__USE DOUBLE BACKSLASHES INSTEAD OF SINGLE, "C:\Program Files\VideoLAN\VLC" MUST BECOME "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"__
+>__USE DOUBLE BACKSLASHES INSTEAD OF SINGLE, "C:\Program Files\VideoLAN\VLC" MUST BECOME "C:\\\Program Files\\\VideoLAN\\\VLC\\\vlc.exe"__
 
 
 > [!TIP]
