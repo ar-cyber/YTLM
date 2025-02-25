@@ -4,10 +4,10 @@ YouTube Live Music  (YTLM) is a stupid little bot I coded (with a little help fr
 
 # Contents:
 
-[Commands](#COMMANDS "Commands")\
-\-	[!queue](-!queue "#queue")\
-[Setup](#SETUP)\
-[Notes](#NOTES)\
+- [Commands](#COMMANDS "Commands")\
+  - [!queue](-!queue "#queue")\
+- [Setup](#SETUP)\
+- [Notes](#NOTES)\
 
 ## COMMANDS
 
