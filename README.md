@@ -24,7 +24,7 @@ THIS COMMAND ONLY WORKS WITH IDs OF VIDEOS THAT ARE ON YOUTUBE MUSIC, REGULAR VI
 
 ## SETUP
 
-1. Clone/Download and extract the Repo to any folder on your computer
+1. Download and extract the source to any folder on your computer (clone repo or download [latest release](https://github.com/NIDNHU/YTLM/releases/tag/release))
 2. Install [Python](https://www.python.org/downloads/). During installation, please make sure the boxes at the bottom labelled "add Python.exe to PATH" and "Use admin privileges when installing" are ticked
 3. install dependencies (found in Src/requirements.txt) or run the file "Src/PipInstallBat.bat" on Windows to install dependencies
 4. Install [VLC](https://www.videolan.org/vlc/) x86
