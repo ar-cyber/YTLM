@@ -4,12 +4,12 @@ YouTube Live Music  (YTLM) is a stupid little bot I coded (with a little help fr
 
 # Contents:
 
-- [Commands](#COMMANDS "Commands")\
-  - [!queue](-!queue "#queue")\
-- [Setup](#SETUP)\
-- [Notes](#NOTES)\
-
-## COMMANDS
+- [Commands](#commands)  
+  - [!queue](-!queue "#queue")  
+- [Setup](#setup)  
+- [Notes](#notes)  
+ 
+## Commands
 
 ### !queue
 
@@ -18,7 +18,7 @@ The command to queue a song is "!queue \<VIDEO\_ID>" where \<VIDEO\_ID> is the u
 > [!IMPORTANT]
 >THIS COMMAND ONLY WORKS WITH IDs OF VIDEOS THAT ARE ON YOUTUBE MUSIC, REGULAR VIDEOS WILL NOT DOWNLOAD
 
-## SETUP
+## Setup
 
 1. Download and extract the source to any folder on your computer (clone repo or download [latest release](https://github.com/NIDNHU/YTLM/releases/tag/release))
 2. Install [Python](https://www.python.org/downloads/). During installation, please make sure the boxes at the bottom labelled "add Python.exe to PATH" and "Use admin privileges when installing" are ticked
@@ -41,13 +41,12 @@ The command to queue a song is "!queue \<VIDEO\_ID>" where \<VIDEO\_ID> is the u
 >Please turn off loop mode in VLC otherwise if the song queue runs out you will have to listen to the whole playlist again before you get to the new ones
 
 
-## NOTES
+## Notes
 
--This program can be run on any Windows PC with no API key or cookie required, if used, please credit me in the description or somewhere in the video
--This program Has not been tested on any other OS and it is unknown if it works
+- This program can be run on any Windows PC with no API key or cookie required
+- if used, please credit me in the description or somewhere in the video
+- This program Has not been tested on any other OS and it is unknown if it works
 
-## STAR HISTORY
+## Star history
 
 [![Star History Chart](https://api.star-history.com/svg?repos=NIDNHU/YTLM\&type=Date)](https://star-history.com/#NIDNHU/YTLM\&Date)
-
-PFP image by Craiyon
