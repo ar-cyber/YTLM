@@ -18,9 +18,8 @@ YouTube Live Music  (YTLM) is a stupid little bot I coded (with a little help fr
 
 The command to queue a song is "!queue \<VIDEO\_ID>" where \<VIDEO\_ID> is the unique string of characters used to identify a video (everything after the "v=")&#x20;
 
-:::caution
-THIS COMMAND ONLY WORKS WITH IDs OF VIDEOS THAT ARE ON YOUTUBE MUSIC, REGULAR VIDEOS WILL NOT DOWNLOAD
-:::
+> [!IMPORTANT]
+>THIS COMMAND ONLY WORKS WITH IDs OF VIDEOS THAT ARE ON YOUTUBE MUSIC, REGULAR VIDEOS WILL NOT DOWNLOAD
 
 ## SETUP
 
@@ -37,13 +36,13 @@ THIS COMMAND ONLY WORKS WITH IDs OF VIDEOS THAT ARE ON YOUTUBE MUSIC, REGULAR VI
 11. Replace "PATH\_TO\_VLC\_HERE" with the path to your VLC&#x20;
 12. Run main.py, VLC will open.
 
-:::danger
-***USE DOUBLE BACKSLASHES INSTEAD OF SINGLE, "C:\Program Files\VideoLAN\VLC" MUST BECOME "C:\Program Files\VideoLAN\VLC\vlc.exe"***
-:::
+> [!CAUTION]
+>__USE DOUBLE BACKSLASHES INSTEAD OF SINGLE, "C:\Program Files\VideoLAN\VLC" MUST BECOME "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"__
 
-:::tip
-Please turn off loop mode in VLC otherwise if the song queue runs out you will have to listen to the whole playlist again before you get to the new ones
-:::
+
+> [!TIP]
+>Please turn off loop mode in VLC otherwise if the song queue runs out you will have to listen to the whole playlist again before you get to the new ones
+
 
 ## NOTES
 
