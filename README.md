@@ -23,7 +23,7 @@ The command to queue a song is "!queue \<VIDEO\_ID>" where \<VIDEO\_ID> is the u
 1. Download and extract the source to any folder on your computer (clone repo or download [latest release](https://github.com/NIDNHU/YTLM/releases/tag/release))
 2. Install [Python](https://www.python.org/downloads/). During installation, please make sure the boxes at the bottom labelled "add Python.exe to PATH" and "Use admin privileges when installing" are ticked
 3. Check pip was added to path correctly by running `pip install --upgrade pip`, this will both make sure pip is correctly installed and that it is up-to-date
-4. Install the required python libraries (found in Src/requirements.txt) using PIP, for more details on how to use pip to install packages, see [HERE](https://www.youtube.com/watch?v=7snh_1Hf_TI)
+4. Install the required python libraries (found in Src/requirements.txt) using PIP. For more details on how to use pip to install packages, see [HERE](https://www.youtube.com/watch?v=7snh_1Hf_TI)
 5. Install [VLC](https://www.videolan.org/vlc/) x86
 6. Download the correct [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip) version, extract it and navigate to the bin folder
 7. Move everything from the bin folder to src/ffmpeg and then delete the placeholder file "DELETEME"
