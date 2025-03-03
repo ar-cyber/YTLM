@@ -14,7 +14,7 @@ config = json.load(open('config.json', 'r'))
 YOUTUBE_VIDEO_ID = config["YOUTUBE_VIDEO_ID"]
 RATE_LIMIT_SECONDS = config['RATE_LIMIT_SECONDS']
 VLC_PATH = config['VLC_PATH']
-PREFIX = config['prefix']
+PREFIX = config['PREFIX']
 user_last_command = defaultdict(lambda: 0)
 
 
