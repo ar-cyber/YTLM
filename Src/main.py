@@ -7,6 +7,7 @@ import subprocess
 from collections import defaultdict
 import pytchat
 import yt_dlp
+import platform
 
 # Load configuration from config.json
 #(uses "with" to prevent memory leaks) specify encoding just in case
