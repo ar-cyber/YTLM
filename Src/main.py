@@ -8,7 +8,7 @@ from collections import defaultdict
 import pytchat
 import yt_dlp
 
-# Load configuration from config.json 
+# Load configuration from config.json
 #(uses "with" to prevent memory leaks) specify encoding just in case
 with open('config.json', 'r', encoding="utf-8") as f:
     config = json.load(f)
