@@ -8,7 +8,8 @@ from collections import defaultdict
 import pytchat
 import yt_dlp
 
-# Load configuration from config.json (uses with to prevent memory leaks) specify encoding just in case
+# Load configuration from config.json 
+#(uses "with" to prevent memory leaks) specify encoding just in case
 with open('config.json', 'r', encoding="utf-8") as f:
     config = json.load(f)
 
@@ -75,7 +76,6 @@ def add_to_vlc_queue(audio_file):
         print(f"Error adding video to VLC queue: {e}")
 
 def on_chat_message(chat):
-    global PREFIX
     """Handles incoming chat messages."""
     username = chat.author.name
     message = chat.message
